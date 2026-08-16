@@ -4,9 +4,9 @@
 
 - Variables and data types
 - Arithmetic operators
-- String methods (.strip(), .lower(), .title())
+- String methods: .strip(), .lower(), .title()
 - f-string formatting
-- Conditional statements (if / elif / else)
+- Conditional statements: if / elif / else
 - Ternary expressions
 - User input handling
 - Basic input validation
