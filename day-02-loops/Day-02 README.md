@@ -24,7 +24,7 @@
 5. Dataset Comparison
 6. Student Score Dictionary
 7. Nested Order Summary
-8. Contact Book Menu (Stretch)
+8. Contact Book Menu
 
 ## How to Run
 
@@ -42,6 +42,5 @@ union/intersection/difference to process and analyze collections of data.
 ## Challenges Faced
 
 Working through Day 2, I focused on correctly using break to stop loops early and 
-managing nested dictionaries when tracking multiple pieces of information for each 
-item. I also practiced writing list and dictionary comprehensions as concise 
+managing nested dictionaries. I also practiced writing list and dictionary comprehensions as concise 
 alternatives to standard loops.
