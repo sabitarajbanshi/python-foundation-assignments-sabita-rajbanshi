@@ -2,7 +2,7 @@
 
 # Student Information
 - Name: Sabita Rajbanshi
-- Cohort: Cohort Name
+- Cohort: Batch-16
 - Track Interest: Data Engineering
 
 # About This Repository
